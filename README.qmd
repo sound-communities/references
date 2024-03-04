@@ -1,0 +1,214 @@
+---
+title: "Sound communities references"
+format: gfm
+author: Joseph V. Casillas
+date: 2024-03-01
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+knitr::opts_chunk$set(
+  echo = FALSE, 
+  message = FALSE, 
+  warning = FALSE, 
+  fig.asp = 9/16, 
+  out.width = "100%"
+)
+
+library("RefManageR")
+library("here")
+library("tidyr")
+library("dplyr")
+library("readr")
+library("stringr")
+library("forcats")
+library("ggplot2")
+library("scholar")
+
+# Plotting options
+my_theme <- function(...) {
+  theme_minimal(base_size = 12) + 
+    theme(
+      plot.title = element_text(size = rel(1), face = "bold"), 
+      plot.subtitle = element_text(size = rel(0.9)),
+      plot.caption = element_text(color = "#777777", vjust = 0),
+      axis.title = element_text(size = rel(.9), hjust = 0.95, face = "italic"), 
+      panel.grid.major = element_line(linewidth = rel(.1), color = "grey70"), 
+      panel.grid.minor = element_line(linewidth = rel(.1), color = "grey70")
+    )
+}
+
+```
+
+
+```{r}
+#| label: load-data
+#| warning: false
+#| message: false
+
+# Load bib file
+bib <- suppressWarnings(ReadBib("refs.bib", check = FALSE))
+
+# Create csv of citekeys
+cite_key_list <- bind_cols(
+  bib$key |> unlist() |> tibble::enframe(name = NULL), 
+  bib$bibtype |> unlist() |> tibble::enframe(name = NULL), 
+  bib$year |> unlist() |> tibble::enframe(name = NULL)
+  ) |> 
+  rename(citekey = value...1, type = value...2, year = value...3) |> 
+  write_csv(here("cite_key_list.csv"))
+
+# Set bib options for printing
+BibOptions(bib.style = "authoryear", style = "text", max.names = 10, 
+           first.inits = TRUE, check.entries = FALSE)
+
+# Convert to dataframe for analyses
+dat <- bib |> 
+  as_tibble() |> 
+  purrr::map_df(.f = textutils::HTMLdecode) |> 
+  mutate(year = as.numeric(year))
+```
+
+
+
+## Citation Types
+
+```{r}
+#| label: bibtype
+#| echo: false
+
+counts <-  dat |> 
+  group_by(bibtype) |> 
+  count()
+
+
+counts |> 
+  mutate(bibtype = fct_reorder(bibtype, n)) |> 
+  ggplot(aes(x = bibtype, y = n, label = n)) + 
+    geom_bar(stat = 'identity', color = 'black', 
+             fill = 'darkred', width = 0.1) + 
+    geom_point(pch = 21, size = 10, color = 'black', fill = 'lightgrey') + 
+    geom_text() + 
+    labs(y = "Count", x = "Citation Type") + 
+    coord_flip() + 
+    my_theme()
+```
+
+## Journals
+
+```{r, 'journal', fig.retina=2}
+datj <- dat |> 
+  group_by(bibtype) |> 
+  count(journal)
+
+dat |> 
+  group_by(journal) |> 
+  summarize(counts = n(), .groups = "drop") |> 
+  na.omit() |> 
+  mutate(journal = fct_reorder(journal, counts)) |> 
+  ggplot(aes(x = journal, y = counts, label = counts)) + 
+    geom_bar(stat = "identity", color = 'black', 
+             fill = 'darkred', width = 0.1) + 
+    geom_point(pch = 21, size = 6, color = 'black', fill = 'lightgrey') + 
+    geom_text(size = 3) + 
+    labs(y = "Count", x = "Journal") + 
+    coord_flip() + 
+    my_theme()
+```
+
+## Authors
+
+```{r}
+#| label: authors
+#| fig-height: 22
+#| fig-asp: 1
+
+# Initialize list
+authors <- list()
+
+# For each element in list, get last name of author and store in 
+# 'authors' list
+for (i in 1:length(bib)) {
+  authors[[i]] <- bib[i]$author$family |> unlist()
+}
+
+# Convert to tibble and plot
+purrr::map(authors, textutils::HTMLdecode) |> 
+  unlist() |> 
+  tibble::enframe() |> 
+  group_by(value) |> 
+  summarize(counts = n(), .groups = "drop") |> 
+  mutate(value = fct_reorder(value, counts)) |> 
+  ggplot(aes(x = value, y = counts, label = counts)) + 
+    geom_bar(stat = "identity", color = 'black', 
+             fill = 'darkred', width = 0.1) + 
+    geom_point(pch = 21, size = 6, color = 'black', fill = 'lightgrey') + 
+    geom_text(size = 3) + 
+    labs(y = "Count", x = "Author", 
+         title = "Most frequent researchers") + 
+    coord_flip() + 
+    my_theme(base_size = 8)
+```
+
+## Publication Years
+
+```{r}
+#| label: year
+
+prod <- dat |> 
+  select(year) |> 
+  na.omit() |> 
+  group_by(year) |> 
+  summarize(counts = n(), .groups = "drop") 
+ 
+
+year_max <- max(prod$counts)
+year_current <- prod$year |> unique() |> max()
+
+prod |> 
+  ggplot(aes(x = year, y = counts, label = counts)) + 
+    geom_bar(stat = "identity", color = 'black', 
+             fill = 'black', width = 0.1) + 
+    geom_point(pch = 21, size = 6, color = "black", fill = "#cc0033") + 
+    geom_text(color = 'white', size = 3) + 
+    scale_fill_brewer(name = NULL, palette = 'Set1') + 
+    labs(y = "Count", x = "Year", 
+         title = "Productivity as a function of year and status") + 
+    expand_limits(y = c(0, year_max + 5)) + 
+    my_theme()
+```
+
+# References
+
+## Articles
+
+```{r}
+#| label: ref-printer
+#| warning: false
+#| results: 'asis'
+
+# Printer function for refs
+ref_printer <- function(pubs) {
+  
+  for (i in pubs) {
+    print(bib[key = i]); cat("\n")
+  }
+  
+}
+
+```
+
+```{r}
+#| label: print-refs
+#| eval: true
+#| results: 'asis'
+# Filter citekey dataframe, convert to vector and use to subset bib
+filter(cite_key_list, type == "Article") %>% 
+  arrange(desc(year) )%>% 
+  pull(citekey) %>% 
+  ref_printer
+```
+
+
