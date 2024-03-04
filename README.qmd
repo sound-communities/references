@@ -14,7 +14,8 @@ knitr::opts_chunk$set(
   message = FALSE, 
   warning = FALSE, 
   fig.asp = 9/16, 
-  out.width = "100%"
+  out.width = "100%", 
+  fig.retina = 2
 )
 
 library("RefManageR")
@@ -89,8 +90,8 @@ counts |>
   ggplot(aes(x = bibtype, y = n, label = n)) + 
     geom_bar(stat = 'identity', color = 'black', 
              fill = 'darkred', width = 0.1) + 
-    geom_point(pch = 21, size = 10, color = 'black', fill = 'lightgrey') + 
-    geom_text() + 
+    geom_point(pch = 21, size = 6, color = 'black', fill = 'lightgrey') + 
+    geom_text(size = 3) + 
     labs(y = "Count", x = "Citation Type") + 
     coord_flip() + 
     my_theme()
@@ -122,7 +123,7 @@ dat |>
 
 ```{r}
 #| label: authors
-#| fig-height: 22
+#| fig-height: 26
 #| fig-asp: 1
 
 # Initialize list
@@ -141,15 +142,16 @@ purrr::map(authors, textutils::HTMLdecode) |>
   group_by(value) |> 
   summarize(counts = n(), .groups = "drop") |> 
   mutate(value = fct_reorder(value, counts)) |> 
-  ggplot(aes(x = value, y = counts, label = counts)) + 
+  ggplot(aes(y = value, x = counts, label = counts)) + 
     geom_bar(stat = "identity", color = 'black', 
              fill = 'darkred', width = 0.1) + 
-    geom_point(pch = 21, size = 6, color = 'black', fill = 'lightgrey') + 
-    geom_text(size = 3) + 
+    geom_point(pch = 21, size = 5, color = 'black', fill = 'lightgrey') + 
+    geom_text(size = 2) + 
+    scale_y_discrete(expand = c(0.02, 0, 0.02, 0)) + 
     labs(y = "Count", x = "Author", 
          title = "Most frequent researchers") + 
-    coord_flip() + 
-    my_theme(base_size = 8)
+    my_theme(base_size = 6) + 
+    theme(axis.text.y = element_text(size = 6))
 ```
 
 ## Publication Years
