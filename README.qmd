@@ -3,6 +3,9 @@ title: "Sound communities references"
 format: gfm
 author: Joseph V. Casillas
 date: 2024-03-01
+bibliography: refs.bib
+nocite: |
+  @*
 ---
 
 ```{r}
@@ -29,8 +32,8 @@ library("ggplot2")
 library("scholar")
 
 # Plotting options
-my_theme <- function(...) {
-  theme_minimal(base_size = 12) + 
+my_theme <- function(base_size = 12) {
+  theme_minimal(base_size = base_size) + 
     theme(
       plot.title = element_text(size = rel(1), face = "bold"), 
       plot.subtitle = element_text(size = rel(0.9)),
@@ -123,7 +126,6 @@ dat |>
 
 ```{r}
 #| label: authors
-#| fig-height: 26
 #| fig-asp: 1
 
 # Initialize list
@@ -150,8 +152,8 @@ purrr::map(authors, textutils::HTMLdecode) |>
     scale_y_discrete(expand = c(0.02, 0, 0.02, 0)) + 
     labs(y = "Count", x = "Author", 
          title = "Most frequent researchers") + 
-    my_theme(base_size = 6) + 
-    theme(axis.text.y = element_text(size = 6))
+    my_theme(base_size = 8) + 
+    theme(axis.text.y = element_text(size = 4))
 ```
 
 ## Publication Years
@@ -182,35 +184,9 @@ prod |>
     my_theme()
 ```
 
-# References
 
-## Articles
+# Reference list
 
-```{r}
-#| label: ref-printer
-#| warning: false
-#| results: 'asis'
-
-# Printer function for refs
-ref_printer <- function(pubs) {
-  
-  for (i in pubs) {
-    print(bib[key = i]); cat("\n")
-  }
-  
-}
-
-```
-
-```{r}
-#| label: print-refs
-#| eval: true
-#| results: 'asis'
-# Filter citekey dataframe, convert to vector and use to subset bib
-filter(cite_key_list, type == "Article") %>% 
-  arrange(desc(year) )%>% 
-  pull(citekey) %>% 
-  ref_printer
-```
-
+::: {#refs}
+:::
 
