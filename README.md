@@ -24,7 +24,8 @@ style="width:100.0%" />
 
 # Reference list
 
-<div id="refs" class="references csl-bib-body hanging-indent">
+<div id="refs" class="references csl-bib-body hanging-indent"
+entry-spacing="0">
 
 <div id="ref-amengual2018asymmetrical" class="csl-entry">
 
