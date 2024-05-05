@@ -2,7 +2,7 @@
 title: "Sound communities references"
 format: gfm
 author: Joseph V. Casillas
-date: 2024-03-01
+date: today
 bibliography: refs.bib
 nocite: |
   @*
