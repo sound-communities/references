@@ -193,7 +193,7 @@ of the Acoustical Society of America* 153 (Issue 3 supplement): A296–96.
 
 <div id="ref-plonsky2014big" class="csl-entry">
 
-Plonsky, Luke, and Frederick L Oswald. 2014. “How Big Is ‘Big’?
+Plonsky, Luke, and Frederick L Oswald. 2014. “How Big Is "Big"?
 Interpreting Effect Sizes in L2 Research.” *Language Learning* 64 (4):
 878–912. <https://doi.org/10.1111/lang.12079>.
 
