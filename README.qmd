@@ -178,8 +178,7 @@ prod |>
     geom_point(pch = 21, size = 6, color = "black", fill = "#cc0033") + 
     geom_text(color = 'white', size = 3) + 
     scale_fill_brewer(name = NULL, palette = 'Set1') + 
-    labs(y = "Count", x = "Year", 
-         title = "Productivity as a function of year and status") + 
+    labs(y = "Count", x = "Year") + 
     expand_limits(y = c(0, year_max + 5)) + 
     my_theme()
 ```

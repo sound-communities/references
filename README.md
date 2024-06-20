@@ -1,6 +1,6 @@
 # Sound communities references
 Joseph V. Casillas
-2024-05-05
+2024-06-20
 
 ## Citation Types
 
@@ -27,32 +27,20 @@ style="width:100.0%" />
 <div id="refs" class="references csl-bib-body hanging-indent"
 entry-spacing="0">
 
+<div id="ref-alvord2014miami" class="csl-entry">
+
+Alvord, Scott M, and B M A Rogers. 2014. “Miami-Cuban Spanish Vowels in
+Contact.” *Sociolinguistic Studies* 8 (1): 139–70.
+<https://doi.org/10.1558/sols.v8i1.139>.
+
+</div>
+
 <div id="ref-amengual2018asymmetrical" class="csl-entry">
 
 Amengual, Mark. 2018. “Asymmetrical Interlingual Influence in the
 Production of Spanish and English Laterals as a Result of Competing
 Activation in Bilingual Language Processing.” *Journal of Phonetics* 69:
 12–28. <https://doi.org/10.1016/j.wocn.2018.04.002>.
-
-</div>
-
-<div id="ref-barr2013random" class="csl-entry">
-
-Barr, Dale J, Roger Levy, Christoph Scheepers, and Harry J Tily. 2013.
-“Random Effects Structure for Confirmatory Hypothesis Testing: Keep It
-Maximal.” *Journal of Memory and Language* 68 (3): 255–78.
-<https://doi.org/10.1016/j.jml.2012.11.001>.
-
-</div>
-
-<div id="ref-bastiaansen2020time" class="csl-entry">
-
-Bastiaansen, Jojanneke A, Yoram K Kunkels, Frank J Blaauw, Steven M
-Boker, Eva Ceulemans, Meng Chen, Sy-Miin Chow, et al. 2020. “Time to Get
-Personal? The Impact of Researchers Choices on the Selection of
-Treatment Targets Using the Experience Sampling Methodology.” *Journal
-of Psychosomatic Research* 137: 1–14.
-<https://doi.org/10.1016/j.jpsychores.2020.110211>.
 
 </div>
 
@@ -63,13 +51,12 @@ Linguistics* 35 (4): 374–92. <https://doi.org/10.1093/applin/amu031>.
 
 </div>
 
-<div id="ref-bochynska2023reproducible" class="csl-entry">
+<div id="ref-birdsong2012" class="csl-entry">
 
-Bochynska, Agata, Liam Keeble, Caitlin Halfacre, Joseph V Casillas,
-Irys-Amélie Champagne, Kaidi Chen, Melanie Röthlisberger, Erin M
-Buchanan, and Timo Roettger. 2023. “Reproducible Research Practices and
-Transparency Across Linguistics.” *Glossa Psycholinguistics* 2 (1):
-1–36. <https://doi.org/10.5070/G6011239>.
+Birdsong, David, Leah M. Gertken, and Mark Amengual. 2012. “Bilingual
+Language Profile: An Easy-to-Use Instrument to Assess Bilingualism.”
+COERLL, University of Texas at Austin.
+<https://sites.la.utexas.edu/bilingual/>.
 
 </div>
 
@@ -83,13 +70,12 @@ Teams.” *Nature* 582 (7810): 84–88.
 
 </div>
 
-<div id="ref-breznau2022observing" class="csl-entry">
+<div id="ref-brice2009spanish" class="csl-entry">
 
-Breznau, Nate, Eike Mark Rinke, Alexander Wuttke, Hung HV Nguyen, Muna
-Adem, Jule Adriaans, Amalia Alvarez-Benjumea, et al. 2022. “Observing
-Many Researchers Using the Same Data and Hypothesis Reveals a Hidden
-Universe of Uncertainty.” *Proceedings of the National Academy of
-Sciences* 119 (44): 1–8. <https://doi.org/10.1073/pnas.2203150119>.
+Brice, Alejandro E, Cecyle K Carson, and Jennifer Dennis O’Brien. 2009.
+“Spanish-English Articulation and Phonology of 4-and 5-Year-Old
+Preschool Children: An Initial Investigation.” *Communication Disorders
+Quarterly* 31 (1): 3–14. <https://doi.org/10.1177/1525740108327447>.
 
 </div>
 
@@ -98,6 +84,31 @@ Sciences* 119 (44): 1–8. <https://doi.org/10.1073/pnas.2203150119>.
 Brysbaert, Marc. 2021. “Power Considerations in Bilingualism Research:
 Time to Step up Our Game.” *Bilingualism: Language and Cognition* 24
 (5): 813–18. <https://doi.org/10.1017/S1366728920000437>.
+
+</div>
+
+<div id="ref-census2022" class="csl-entry">
+
+Bureau, U. S. Census. 2022. “The American Community Survey: 50 Years of
+Personal Stories.” U.S. Department of Commerce.
+<https://www.census.gov/content/dam/Census/library/publications/2022/acs/acs-50.pdf>.
+
+</div>
+
+<div id="ref-byers2017vowel" class="csl-entry">
+
+Byers, Emily, and Mehmet Yavas. 2017. “Vowel Reduction in Word-Final
+Position by Early and Late Spanish-English Bilinguals.” *PloS ONE* 12
+(4): 1–24. <https://doi.org/10.1371/journal.pone.0175226>.
+
+</div>
+
+<div id="ref-carter2020" class="csl-entry">
+
+Carter, Phillip M., Lydda López Valdez, and Nandi Sims. 2020. “New
+Dialect Formation Through Language Contact: Vocalic and Prosodic
+Developments in Miami English.” *American Speech* 95 (2): 119–48.
+<https://doi.org/10.1215/00031283-7726313>.
 
 </div>
 
@@ -116,6 +127,15 @@ Casillas, Joseph V, and Miquel Simonet. 2018. “Perceptual Categorization
 and Bilingual Language Modes: Assessing the Double Phonemic Boundary in
 Early and Late Bilinguals.” *Journal of Phonetics* 71: 51–64.
 <https://doi.org/10.1016/j.wocn.2018.07.002>.
+
+</div>
+
+<div id="ref-christoffersen2014" class="csl-entry">
+
+Christoffersen, Katherine O’Donnell. 2014. “DOES CHILD CODE-SWITCHING
+DEMONSTRATE COMMUNICATIVE COMPETENCE?: A COMPARISON OF SIMULTANEOUS AND
+SEQUENTIAL BILINGUALS.” *Journal of Second Language Acquisition and
+Teaching: Arizona Working Papers in SLAT* 21: 20–40.
 
 </div>
 
@@ -139,6 +159,30 @@ Late Bilingual Stefanie Graf: A Longitudinal Study over Four Decades.”
 
 </div>
 
+<div id="ref-dubord_gender_assignment" class="csl-entry">
+
+DuBord, Elise M. 2004. “Gender Assignment to English Words in the
+Spanish of Southern Arizona.” PhD thesis, University of Arizona.
+
+</div>
+
+<div id="ref-ellis2010essential" class="csl-entry">
+
+Ellis, Paul D. 2010. *The Essential Guide to Effect Sizes: Statistical
+Power, Meta-Analysis, and the Interpretation of Research Results*.
+Cambridge university press. <https://doi.org/10.1017/CBO9780511761676>.
+
+</div>
+
+<div id="ref-flege1982" class="csl-entry">
+
+Flege, James Emil, and Robert M. Hammond. 1982. “Mimicry of
+Non-Distinctive Phonetic Differences Between Language Varieties.”
+*Studies in Second Language Acquisition* 5 (1): 1–17.
+<https://doi.org/10.1017/S0272263100004563>.
+
+</div>
+
 <div id="ref-gelman2016statistical" class="csl-entry">
 
 Gelman, Andrew, and Eric Loken. 2016. “The Statistical Crisis in
@@ -147,10 +191,34 @@ Science.” *American Scientist* 102 (6): 305–18.
 
 </div>
 
+<div id="ref-gonzales2013bafri" class="csl-entry">
+
+Gonzales, Kalim, and Andrew J Lotto. 2013. “A Bafri, Un Pafri:
+Bilinguals’ Pseudoword Identifications Support Language-Specific
+Phonetic Systems.” *Psychological Science* 24 (11): 2135–42.
+<https://doi.org/10.1177/0956797613486485>.
+
+</div>
+
+<div id="ref-grosjean1989neurolinguists" class="csl-entry">
+
+Grosjean, François. 1989. “Neurolinguists, Beware! The Bilingual Is Not
+Two Monolinguals in One Person.” *Brain and Language* 36 (1): 3–15.
+<https://doi.org/10.1016/0093-934X(89)90048-5>.
+
+</div>
+
+<div id="ref-grosjean1997" class="csl-entry">
+
+———. 1997. “The Bilingual Individual.” *Interpreting* 2 (1-2): 163–87.
+<https://doi.org/10.1075/intp.2.1-2.07gro>.
+
+</div>
+
 <div id="ref-grosjean2010bilingual" class="csl-entry">
 
-Grosjean, François. 2010. *Bilingual: Life and Reality*. Harvard
-university press. <https://doi.org/10.4159/9780674056459>.
+———. 2010. *Bilingual: Life and Reality*. Harvard university press.
+<https://doi.org/10.4159/9780674056459>.
 
 </div>
 
@@ -158,7 +226,7 @@ university press. <https://doi.org/10.4159/9780674056459>.
 
 Kelly, Niamh. 2022. “Change Across Time in L2 Intonation Vs. Segments: A
 Longitudinal Study of the English of Ole Gunnar Solskjaer.” *Languages*
-7 (3): 210. <https://doi.org/10.3390/languages7030210>.
+7 (3): 1–17. <https://doi.org/10.3390/languages7030210>.
 
 </div>
 
@@ -166,8 +234,17 @@ Longitudinal Study of the English of Ole Gunnar Solskjaer.” *Languages*
 
 Kornder, Lisa, and Ineke Mennen. 2021. “Longitudinal Developments in
 Bilingual Second Language Acquisition and First Language Attrition of
-Speech: The Case of Arnold Schwarzenegger.” *Languages* 6 (2): 61.
+Speech: The Case of Arnold Schwarzenegger.” *Languages* 6 (2): 1–25.
 <https://doi.org/10.3390/languages6020061>.
+
+</div>
+
+<div id="ref-kroll_bialystok_2013" class="csl-entry">
+
+Kroll, Judith F, and Ellen Bialystok. 2013. “Understanding the
+Consequences of Bilingualism for Language Processing and Cognition.”
+*Journal of Cognitive Psychology* 25 (5): 497–514.
+<https://doi.org/10.1080/20445911.2013.799170>.
 
 </div>
 
@@ -182,20 +259,28 @@ Jessica P Varela, Núria de Rocafiguera, and Joseph V Casillas. 2021.
 
 </div>
 
-<div id="ref-mohamed2023acoustical" class="csl-entry">
+<div id="ref-lynn2023" class="csl-entry">
 
-Mohamed, Miski A, and Matthew B Winn. 2023. “Acoustical Analysis of
-Taylor Swift’s Speech and Singing Throughout Her Career.” *The Journal
-of the Acoustical Society of America* 153 (Issue 3 supplement): A296–96.
-<https://doi.org/10.1121/10.0018912>.
+Lynn, Klonda. 2023. “A Phonetic Analysis of the English Spoken by
+Mexican Children in the Elementary Schools of Arizona.” PhD thesis,
+Louisiana State University; Agricultural & Mechanical College.
 
 </div>
 
-<div id="ref-plonsky2014big" class="csl-entry">
+<div id="ref-potowski2023spanish" class="csl-entry">
 
-Plonsky, Luke, and Frederick L Oswald. 2014. “How Big Is "Big"?
-Interpreting Effect Sizes in L2 Research.” *Language Learning* 64 (4):
-878–912. <https://doi.org/10.1111/lang.12079>.
+Potowski, Kim, and Lourdes Torres. 2023. *Spanish in Chicago*. Oxford
+University Press.
+
+</div>
+
+<div id="ref-rodriguezguerra2023" class="csl-entry">
+
+Rodríguez-Guerra, Míriam, Sonia Colina, and Leah Fabiano-Smith. 2023.
+“Interaction in Bilingual Early Speech Acquisition: Acceleration in the
+Bilingual Acquisition of English Liquids for English-Spanish
+Bilinguals.” *Lingua* 281: 1–21.
+<https://doi.org/10.1016/j.lingua.2022.103438>.
 
 </div>
 
@@ -207,12 +292,21 @@ Research.” *Laboratory Phonology* 10 (1): 1–27.
 
 </div>
 
-<div id="ref-simmons2011false" class="csl-entry">
+<div id="ref-sonderegger2020structured" class="csl-entry">
 
-Simmons, Joseph P, Leif D Nelson, and Uri Simonsohn. 2011.
-“False-Positive Psychology: Undisclosed Flexibility in Data Collection
-and Analysis Allows Presenting Anything as Significant.” *Psychological
-Science* 22 (11): 1359–66. <https://doi.org/10.1177/0956797611417632>.
+Sonderegger, Morgan, Jane Stuart-Smith, Thea Knowles, Rachel Macdonald,
+and Tamara Rathcke. 2020. “Structured Heterogeneity in Scottish Stops
+over the Twentieth Century.” *Language* 96 (1): 94–125.
+<https://doi.org/10.1353/lan.2020.0003>.
+
+</div>
+
+<div id="ref-stuart2015private" class="csl-entry">
+
+Stuart-Smith, Jane, Morgan Sonderegger, Tamara Rathcke, and Rachel
+Macdonald. 2015. “The Private Life of Stops: VOT in a Real-Time Corpus
+of Spontaneous Glaswegian.” *Laboratory Phonology* 6 (3-4): 505–49.
+<https://doi.org/10.1515/lp-2015-0015>.
 
 </div>
 
