@@ -310,4 +310,13 @@ of Spontaneous Glaswegian.” *Laboratory Phonology* 6 (3-4): 505–49.
 
 </div>
 
+<div id="ref-wolfram2004" class="csl-entry">
+
+Wolfram, Walt, Phillip Carter, and Brenda Moriello. 2004. “Emerging
+Hispanic English: New Dialect Formation in the American South.” *Journal
+of Sociolinguistics* 8 (3): 339–58.
+<https://doi.org/10.1111/j.1467-9841.2004.00264.x>.
+
+</div>
+
 </div>
