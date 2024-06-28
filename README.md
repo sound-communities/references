@@ -1,6 +1,6 @@
 # Sound communities references
 Joseph V. Casillas
-2024-06-20
+2024-06-28
 
 ## Citation Types
 
@@ -41,6 +41,25 @@ Amengual, Mark. 2018. “Asymmetrical Interlingual Influence in the
 Production of Spanish and English Laterals as a Result of Competing
 Activation in Bilingual Language Processing.” *Journal of Phonetics* 69:
 12–28. <https://doi.org/10.1016/j.wocn.2018.04.002>.
+
+</div>
+
+<div id="ref-antoniou2012two" class="csl-entry">
+
+Antoniou, Mark, Michael D. Tyler, and Catherine T. Best. 2012. “Two Ways
+to Listen: Do L2-Dominant Bilinguals Perceive Stop Voicing According to
+Language Mode?” *Journal of Phonetics* 40 (4): 582–94.
+<https://doi.org/10.1016/j.wocn.2012.05.005>.
+
+</div>
+
+<div id="ref-bahrick1994" class="csl-entry">
+
+Bahrick, Harry P., Lynne K. Hall, John P. Goggin, Lorraine E. Bahrick,
+and Stephanie A. Berger. 1994. “Fifty Years of Language Maintenance and
+Language Dominance in Bilingual Hispanic Immigrants.” *Journal of
+Experimental Psychology: General* 123 (3): 264–83.
+<https://doi.org/10.1037/0096-3445.123.3.264>.
 
 </div>
 
@@ -166,11 +185,27 @@ Spanish of Southern Arizona.” PhD thesis, University of Arizona.
 
 </div>
 
+<div id="ref-dunn2009quick" class="csl-entry">
+
+Dunn, Alexandra L., and Jean E. Fox Tree. 2009. “A Quick, Gradient
+Bilingual Dominance Scale.” *Bilingualism: Language and Cognition* 12
+(3): 273–89. <https://doi.org/10.1017/S1366728909990113>.
+
+</div>
+
 <div id="ref-ellis2010essential" class="csl-entry">
 
 Ellis, Paul D. 2010. *The Essential Guide to Effect Sizes: Statistical
 Power, Meta-Analysis, and the Interpretation of Research Results*.
 Cambridge university press. <https://doi.org/10.1017/CBO9780511761676>.
+
+</div>
+
+<div id="ref-flege2002assessing" class="csl-entry">
+
+Flege, James E., Ian R. A. MacKay, and Thorsten Piske. 2002. “Assessing
+Bilingual Dominance.” *Applied Psycholinguistics* 23 (4): 567–98.
+<https://doi.org/10.1017/S0142716402004046>.
 
 </div>
 
@@ -222,6 +257,25 @@ Two Monolinguals in One Person.” *Brain and Language* 36 (1): 3–15.
 
 </div>
 
+<div id="ref-hamann2019" class="csl-entry">
+
+Hamann, Cornelia, Esther Rinke, and Dobrinka Genevska-Hanke. 2019.
+“Editorial: Bilingual Language Development: The Role of Dominance.”
+*Frontiers in Psychology* 10: 1064.
+<https://doi.org/10.3389/fpsyg.2019.01064>.
+
+</div>
+
+<div id="ref-kartushina2019third" class="csl-entry">
+
+Kartushina, Natalia, and Clara D. Martin. 2019. “Third-Language Learning
+Affects Bilinguals’ Production in Both Their Native Languages: A
+Longitudinal Study of Dynamic Changes in L1, L2 and L3 Vowel
+Production.” *Journal of Phonetics* 77: 1–21.
+<https://doi.org/10.1016/j.wocn.2019.100920>.
+
+</div>
+
 <div id="ref-kelly2022change" class="csl-entry">
 
 Kelly, Niamh. 2022. “Change Across Time in L2 Intonation Vs. Segments: A
@@ -248,6 +302,32 @@ Consequences of Bilingualism for Language Processing and Cognition.”
 
 </div>
 
+<div id="ref-lambert1955" class="csl-entry">
+
+Lambert, Wallace E. 1955. “Measurement of the Linguistic Dominance of
+Bilinguals.” *The Journal of Abnormal and Social Psychology* 50 (2):
+197–200. <https://doi.org/10.1037/h0042120>.
+
+</div>
+
+<div id="ref-li2006language" class="csl-entry">
+
+Li, Ping, Sara Sepanski, and Xiaowei Zhao. 2006. “Language History
+Questionnaire: A Web-Based Interface for Bilingual Research.” *Behavior
+Research Methods* 38 (2): 202–10. <https://doi.org/10.3758/BF03192770>.
+
+</div>
+
+<div id="ref-lim2008determining" class="csl-entry">
+
+Lim, Valerie P. C., Susan J. Rickard Liow, Michelle Lincoln, Yiong Huak
+Chan, and Mark Onslow. 2008. “Determining Language Dominance in
+English-Mandarin Bilinguals: Development of a Self-Report Classification
+Tool for Clinical Use.” *Applied Psycholinguistics* 29 (3): 389–412.
+<https://doi.org/10.1017/S0142716408080181>.
+
+</div>
+
 <div id="ref-lozano2021conceptually" class="csl-entry">
 
 Lozano-Argüelles, Cristina, Laura Fernández Arroyo, Nicole Rodrı́guez,
@@ -259,11 +339,40 @@ Jessica P Varela, Núria de Rocafiguera, and Joseph V Casillas. 2021.
 
 </div>
 
+<div id="ref-luk2013bilingualism" class="csl-entry">
+
+Luk, Gigi, and Ellen Bialystok. 2013. “Bilingualism Is Not a Categorical
+Variable: Interaction Between Language Proficiency and Usage.” *Journal
+of Cognitive Psychology* 25 (5): 605–21.
+<https://doi.org/10.1080/20445911.2013.795574>.
+
+</div>
+
 <div id="ref-lynn2023" class="csl-entry">
 
 Lynn, Klonda. 2023. “A Phonetic Analysis of the English Spoken by
 Mexican Children in the Elementary Schools of Arizona.” PhD thesis,
 Louisiana State University; Agricultural & Mechanical College.
+
+</div>
+
+<div id="ref-marian2007leapq" class="csl-entry">
+
+Marian, Viorica, Henrike K. Blumenfeld, and Margarita Kaushanskaya.
+2007. “The Language Experience and Proficiency Questionnaire (LEAP-Q):
+Assessing Language Profiles in Bilinguals and Multilinguals.” *Journal
+of Speech, Language, and Hearing Research* 50 (4): 940–67.
+<https://doi.org/10.1044/1092-4388(2007/067)>.
+
+</div>
+
+<div id="ref-pena2014dynamic" class="csl-entry">
+
+Peña, Elizabeth D., Ronald B. Gillam, and Lisa M. Bedore. 2014. “Dynamic
+Assessment of Narrative Ability in English Accurately Identifies
+Language Impairment in English Language Learners.” *Journal of Speech,
+Language, and Hearing Research* 57 (6): 2208–20.
+<https://doi.org/10.1044/2014_JSLHR-L-13-0151>.
 
 </div>
 
@@ -307,6 +416,24 @@ Stuart-Smith, Jane, Morgan Sonderegger, Tamara Rathcke, and Rachel
 Macdonald. 2015. “The Private Life of Stops: VOT in a Real-Time Corpus
 of Spontaneous Glaswegian.” *Laboratory Phonology* 6 (3-4): 505–49.
 <https://doi.org/10.1515/lp-2015-0015>.
+
+</div>
+
+<div id="ref-lourido2019effects" class="csl-entry">
+
+Tomé Lourido, Gisela, and Bronwen Evans. 2019. “The Effects of Language
+Dominance Switch in Bilinguals: Galician New Speakers’ Speech Production
+and Perception.” *Bilingualism: Language and Cognition* 22 (3): 637–54.
+<https://doi.org/10.1017/S1366728918000603>.
+
+</div>
+
+<div id="ref-treffers2016language" class="csl-entry">
+
+Treffers-Daller, Jeanine, and Carmen Silva-Corvalán. 2016. *Language
+Dominance in Bilinguals: Issues of Measurement and Operationalization*.
+Cambridge, UK: Cambridge University Press.
+<https://doi.org/10.1017/CBO9781107375345>.
 
 </div>
 
