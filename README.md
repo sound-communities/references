@@ -201,6 +201,15 @@ Cambridge university press. <https://doi.org/10.1017/CBO9780511761676>.
 
 </div>
 
+<div id="ref-filipovic2019casp" class="csl-entry">
+
+Filipović, Luna, and John A. Hawkins. 2019. “The Complex Adaptive System
+Principles Model for Bilingualism: Language Interactions Within and
+Across Bilingual Minds.” *International Journal of Bilingualism* 23 (6):
+1223–48. <https://doi.org/10.1177/1367006918781076>.
+
+</div>
+
 <div id="ref-flege2002assessing" class="csl-entry">
 
 Flege, James E., Ian R. A. MacKay, and Thorsten Piske. 2002. “Assessing
@@ -266,6 +275,31 @@ Hamann, Cornelia, Esther Rinke, and Dobrinka Genevska-Hanke. 2019.
 
 </div>
 
+<div id="ref-hawkins2024bilingualism" class="csl-entry">
+
+Hawkins, John, and Luna Filipović. 2024. “Bilingualism-Induced Language
+Change: What Can Change, When, and Why?” *Linguistics Vanguard* 10 (s2):
+115–24. <https://doi.org/10.1515/lingvan-2023-0089>.
+
+</div>
+
+<div id="ref-jackson2024say" class="csl-entry">
+
+Jackson, Samantha, and Derek Denis. 2024. “What I Say, or How I Say It?
+Ethnic Accents and Hiring Evaluations in the Greater Toronto Area.”
+*Language* 100 (2): e27–62. <https://doi.org/10.1353/lan.2024.a929753>.
+
+</div>
+
+<div id="ref-jiang2020believe" class="csl-entry">
+
+Jiang, Xiaochen, Kira Gossack-Keenan, and Marc D. Pell. 2020. “To
+Believe or Not to Believe? How Voice and Accent Information in Speech
+Alter Listener Impressions of Trust.” *Quarterly Journal of Experimental
+Psychology* 73 (1): 55–79. <https://doi.org/10.1177/1747021819865833>.
+
+</div>
+
 <div id="ref-kartushina2019third" class="csl-entry">
 
 Kartushina, Natalia, and Clara D. Martin. 2019. “Third-Language Learning
@@ -307,6 +341,15 @@ Consequences of Bilingualism for Language Processing and Cognition.”
 Lambert, Wallace E. 1955. “Measurement of the Linguistic Dominance of
 Bilinguals.” *The Journal of Abnormal and Social Psychology* 50 (2):
 197–200. <https://doi.org/10.1037/h0042120>.
+
+</div>
+
+<div id="ref-lev2010don" class="csl-entry">
+
+Lev-Ari, Shiri, and Boaz Keysar. 2010. “Why Don’t We Believe Non-Native
+Speakers? The Influence of Accent on Credibility.” *Journal of
+Experimental Social Psychology* 46 (6): 1093–96.
+<https://doi.org/10.1016/j.jesp.2010.05.025>.
 
 </div>
 
@@ -366,6 +409,14 @@ of Speech, Language, and Hearing Research* 50 (4): 940–67.
 
 </div>
 
+<div id="ref-mendoza2014homegirls" class="csl-entry">
+
+Mendoza-Denton, Norma. 2014. *Homegirls: Language and Cultural Practice
+Among Latina Youth Gangs*. John Wiley & Sons.
+<https://doi.org/10.1002/9780470693728>.
+
+</div>
+
 <div id="ref-pena2014dynamic" class="csl-entry">
 
 Peña, Elizabeth D., Ronald B. Gillam, and Lisa M. Bedore. 2014. “Dynamic
@@ -376,10 +427,27 @@ Language, and Hearing Research* 57 (6): 2208–20.
 
 </div>
 
+<div id="ref-potowski2012identity" class="csl-entry">
+
+Potowski, Kim. 2012. “Identity and Heritage Learners: Moving Beyond
+Essentializations.” In *Spanish as a Heritage Language in the United
+States: The State of the Field*, edited by Sara M. Beaudrie and Marta
+Fairclough, 179–202. Washington, DC: Georgetown University Press.
+
+</div>
+
 <div id="ref-potowski2023spanish" class="csl-entry">
 
 Potowski, Kim, and Lourdes Torres. 2023. *Spanish in Chicago*. Oxford
 University Press.
+
+</div>
+
+<div id="ref-reed2020place" class="csl-entry">
+
+Reed, Peter E. 2020. “Place and Language: Links Between Speech, Region,
+and Connection to Place.” *Wiley Interdisciplinary Reviews: Cognitive
+Science* 11 (3): 1–11. <https://doi.org/10.1002/wcs.1524>.
 
 </div>
 
@@ -398,6 +466,15 @@ Bilinguals.” *Lingua* 281: 1–21.
 Roettger, Timo B. 2019. “Researcher Degrees of Freedom in Phonetic
 Research.” *Laboratory Phonology* 10 (1): 1–27.
 <https://doi.org/10.5334/labphon.147>.
+
+</div>
+
+<div id="ref-sankoff2002linguistic" class="csl-entry">
+
+Sankoff, Gillian. 2002. “Linguistic Outcomes of Language Contact.” In
+*The Handbook of Language Variation and Change*, edited by Jack K.
+Chambers, Peter Trudgill, and Natalie Schilling-Estes, 1:638–68. Malden,
+MA: Blackwell. <https://doi.org/10.1002/9781118335598>.
 
 </div>
 
@@ -437,12 +514,28 @@ Cambridge, UK: Cambridge University Press.
 
 </div>
 
+<div id="ref-weinreich1968languages" class="csl-entry">
+
+Weinreich, Uriel. 1968. *Languages in Contact: Findings and Problems*.
+The Hague: Mouton de Gruyter.
+https://doi.org/<https://doi.org/10.1515/9783110802177>.
+
+</div>
+
 <div id="ref-wolfram2004" class="csl-entry">
 
 Wolfram, Walt, Phillip Carter, and Brenda Moriello. 2004. “Emerging
 Hispanic English: New Dialect Formation in the American South.” *Journal
 of Sociolinguistics* 8 (3): 339–58.
 <https://doi.org/10.1111/j.1467-9841.2004.00264.x>.
+
+</div>
+
+<div id="ref-yao2016cognitive" class="csl-entry">
+
+Yao, Yao, and Charles B Chang. 2016. “On the Cognitive Basis of
+Contact-Induced Sound Change: Vowel Merger Reversal in Shanghainese.”
+*Language* 92 (2): 433–67. <https://doi.org/10.1353/lan.2016.0031>.
 
 </div>
 
