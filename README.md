@@ -1,6 +1,6 @@
 # Sound communities references
 Joseph V. Casillas
-2024-06-28
+2024-07-04
 
 ## Citation Types
 
@@ -26,6 +26,15 @@ style="width:100.0%" />
 
 <div id="refs" class="references csl-bib-body hanging-indent"
 entry-spacing="0">
+
+<div id="ref-achugar2009power" class="csl-entry">
+
+Achugar, Mariana, and Silvia Pessoa. 2009. “Power and Place: Language
+Attitudes Towards Spanish in a Bilingual Academic Community in Southwest
+Texas.” *Spanish in Context* 6 (2): 199–223.
+<https://doi.org/10.1075/sic.6.2.03ach>.
+
+</div>
 
 <div id="ref-alvord2014miami" class="csl-entry">
 
@@ -60,6 +69,24 @@ and Stephanie A. Berger. 1994. “Fifty Years of Language Maintenance and
 Language Dominance in Bilingual Hispanic Immigrants.” *Journal of
 Experimental Psychology: General* 123 (3): 264–83.
 <https://doi.org/10.1037/0096-3445.123.3.264>.
+
+</div>
+
+<div id="ref-bayley2012spanish" class="csl-entry">
+
+Bayley, Robert, Norma L. Cárdenas, Belinda Treviño Schouten, and Carlos
+Martin Vélez Salas. 2012. “Spanish Dialect Contact in San Antonio,
+Texas: An Exploratory Study.” In *Selected Proceedings of the 14th
+Hispanic Linguistics Symposium*, 48–60. Cascadilla Proceedings Project
+Somerville, Mass.
+
+</div>
+
+<div id="ref-bialystok2021bilingualism" class="csl-entry">
+
+Bialystok, Ellen. 2021. “Bilingualism as a Slice of Swiss Cheese.”
+*Frontiers in Psychology* 12: 1–6.
+<https://doi.org/10.3389/fpsyg.2021.769323>.
 
 </div>
 
@@ -119,6 +146,15 @@ Personal Stories.” U.S. Department of Commerce.
 Byers, Emily, and Mehmet Yavas. 2017. “Vowel Reduction in Word-Final
 Position by Early and Late Spanish-English Bilinguals.” *PloS ONE* 12
 (4): 1–24. <https://doi.org/10.1371/journal.pone.0175226>.
+
+</div>
+
+<div id="ref-carmichael2016place" class="csl-entry">
+
+Carmichael, Katie. 2016. “Place-Linked Expectations and Listener
+Awareness of Regional Accents.” In *Awareness and Control in
+Sociolinguistic Research*, edited by Anna M. Babel, 123–51. Cambridge
+University Press. <https://doi.org/10.1017/CBO9781139680448.009>.
 
 </div>
 
@@ -409,6 +445,22 @@ of Speech, Language, and Hearing Research* 50 (4): 940–67.
 
 </div>
 
+<div id="ref-marsden2023open" class="csl-entry">
+
+Marsden, Emma, and Kara Morgan-Short. 2023. “(Why) Are Open Research
+Practices the Future for the Study of Language Learning?” *Language
+Learning* 73: 344–87. <https://doi.org/10.1111/lang.12568>.
+
+</div>
+
+<div id="ref-mejias2003attitude" class="csl-entry">
+
+Mejı́as, Hugo A, Pamela L Anderson-Mejı́as, and Ralph Carlson. 2003.
+“Attitude Update: Spanish on the South Texas Border.” *Hispania*,
+138–50. <https://doi.org/10.2307/20062822>.
+
+</div>
+
 <div id="ref-mendoza2014homegirls" class="csl-entry">
 
 Mendoza-Denton, Norma. 2014. *Homegirls: Language and Cultural Practice
@@ -511,6 +563,14 @@ Treffers-Daller, Jeanine, and Carmen Silva-Corvalán. 2016. *Language
 Dominance in Bilinguals: Issues of Measurement and Operationalization*.
 Cambridge, UK: Cambridge University Press.
 <https://doi.org/10.1017/CBO9781107375345>.
+
+</div>
+
+<div id="ref-velazquez2013individual" class="csl-entry">
+
+Velázquez, Isabel. 2013. “Individual Discourse, Language Ideology and
+Spanish Transmission in El Paso, Texas.” *Critical Discourse Studies* 10
+(3): 245–62. <https://doi.org/10.1080/17405904.2013.789975>.
 
 </div>
 
