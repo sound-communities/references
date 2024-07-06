@@ -539,6 +539,15 @@ MA: Blackwell. <https://doi.org/10.1002/9781118335598>.
 
 </div>
 
+<div id="ref-treffers2016language" class="csl-entry">
+
+Silva-Corvalán, Carmen, and Jeanine Treffers-Daller. 2016. *Language
+Dominance in Bilinguals: Issues of Measurement and Operationalization*.
+Cambridge, UK: Cambridge University Press.
+<https://doi.org/10.1017/CBO9781107375345>.
+
+</div>
+
 <div id="ref-sonderegger2020structured" class="csl-entry">
 
 Sonderegger, Morgan, Jane Stuart-Smith, Thea Knowles, Rachel Macdonald,
@@ -563,15 +572,6 @@ Tomé Lourido, Gisela, and Bronwen Evans. 2019. “The Effects of Language
 Dominance Switch in Bilinguals: Galician New Speakers’ Speech Production
 and Perception.” *Bilingualism: Language and Cognition* 22 (3): 637–54.
 <https://doi.org/10.1017/S1366728918000603>.
-
-</div>
-
-<div id="ref-treffers2016language" class="csl-entry">
-
-Treffers-Daller, Jeanine, and Carmen Silva-Corvalán. 2016. *Language
-Dominance in Bilinguals: Issues of Measurement and Operationalization*.
-Cambridge, UK: Cambridge University Press.
-<https://doi.org/10.1017/CBO9781107375345>.
 
 </div>
 
