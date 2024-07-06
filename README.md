@@ -1,6 +1,6 @@
 # Sound communities references
 Joseph V. Casillas
-2024-07-04
+2024-07-06
 
 ## Citation Types
 
@@ -404,6 +404,15 @@ Chan, and Mark Onslow. 2008. “Determining Language Dominance in
 English-Mandarin Bilinguals: Development of a Self-Report Classification
 Tool for Clinical Use.” *Applied Psycholinguistics* 29 (3): 389–412.
 <https://doi.org/10.1017/S0142716408080181>.
+
+</div>
+
+<div id="ref-lindemann2013reliably" class="csl-entry">
+
+Lindemann, Stephanie, and Nicholas C. Subtirelu. 2013. “Reliably Biased:
+The Role of Listener Expectation in the Perception of Second Language
+Speech.” *Language Learning* 63 (3): 567–94.
+<https://doi.org/10.1111/lang.12014>.
 
 </div>
 
