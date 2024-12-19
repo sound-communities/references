@@ -104,7 +104,7 @@ counts |>
 
 ```{r}
 #| label: journal 
-#| fig-height: 15
+#| fig-height: 17
 #| fig-asp: 1
 
 
@@ -133,7 +133,7 @@ dat |>
 ```{r}
 #| label: authors
 #| fig-asp: 1
-#| fig-height: 15
+#| fig-height: 30
 
 # Initialize list
 authors <- list()

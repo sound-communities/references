@@ -1,6 +1,6 @@
 # Sound communities references
 Joseph V. Casillas
-2024-07-06
+2024-12-19
 
 ## Citation Types
 
@@ -50,6 +50,23 @@ Amengual, Mark. 2018. “Asymmetrical Interlingual Influence in the
 Production of Spanish and English Laterals as a Result of Competing
 Activation in Bilingual Language Processing.” *Journal of Phonetics* 69:
 12–28. <https://doi.org/10.1016/j.wocn.2018.04.002>.
+
+</div>
+
+<div id="ref-andringa2014use" class="csl-entry">
+
+Andringa, Sible. 2014. “The Use of Native Speaker Norms in Critical
+Period Hypothesis Research.” *Studies in Second Language Acquisition* 36
+(3): 565–96. <https://doi.org/10.1017/S0272263113000600>.
+
+</div>
+
+<div id="ref-andringa2020sampling" class="csl-entry">
+
+Andringa, Sible, and Aline Godfroid. 2020. “Sampling Bias and the
+Problem of Generalizability in Applied Linguistics.” *Annual Review of
+Applied Linguistics* 40: 134–42.
+<https://doi.org/10.1017/S0267190520000033>.
 
 </div>
 
@@ -106,6 +123,26 @@ COERLL, University of Texas at Austin.
 
 </div>
 
+<div id="ref-bochynska2023reproducible" class="csl-entry">
+
+Bochynska, Agata, Liam Keeble, Caitlin Halfacre, Joseph V Casillas,
+Irys-Amélie Champagne, Kaidi Chen, Melanie Röthlisberger, Erin M
+Buchanan, and Timo Roettger. 2023. “Reproducible Research Practices and
+Transparency Across Linguistics.” *Glossa Psycholinguistics* 2 (1):
+1–36. <https://doi.org/10.5070/G6011239>.
+
+</div>
+
+<div id="ref-bolibaugh2021towards" class="csl-entry">
+
+Bolibaugh, Cylcia, Norbert Vanek, and Emma J Marsden. 2021. “Towards a
+Credibility Revolution in Bilingualism Research: Open Data and Materials
+as Stepping Stones to More Reproducible and Replicable Research.”
+*Bilingualism: Language and Cognition* 24 (5): 801–6.
+<https://doi.org/10.1017/S1366728921000535>.
+
+</div>
+
 <div id="ref-botvinik2020variability" class="csl-entry">
 
 Botvinik-Nezer, Rotem, Felix Holzmeister, Colin F Camerer, Anna Dreber,
@@ -146,6 +183,14 @@ Personal Stories.” U.S. Department of Commerce.
 Byers, Emily, and Mehmet Yavas. 2017. “Vowel Reduction in Word-Final
 Position by Early and Late Spanish-English Bilinguals.” *PloS ONE* 12
 (4): 1–24. <https://doi.org/10.1371/journal.pone.0175226>.
+
+</div>
+
+<div id="ref-byrnes2016notes" class="csl-entry">
+
+Byrnes, Heidi. 2016. “Notes from the Editor: Celebrating 100 Years of"
+the Modern Language Journal".” *The Modern Language Journal*, 3–18.
+<https://doi.org/10.1111/j.1540-4781.2013.12051.x>.
 
 </div>
 
@@ -205,12 +250,12 @@ in Psychological Science* 6 (3): 1–29.
 
 </div>
 
-<div id="ref-de2019native" class="csl-entry">
+<div id="ref-crossley2020introduction" class="csl-entry">
 
-De Leeuw, Esther. 2019. “Native Speech Plasticity in the German-English
-Late Bilingual Stefanie Graf: A Longitudinal Study over Four Decades.”
-*Journal of Phonetics* 73: 24–39.
-<https://doi.org/10.1016/j.wocn.2018.12.002>.
+Crossley, Scott, Emma Marsden, Nick Ellis, Judit Kormos, Kara
+Morgan-Short, and Guillaume Thierry. 2020. “Introduction of Methods
+Showcase Articles in Language Learning.” *Language Learning* 70 (1):
+5–10. <https://doi.org/10.1111/lang.12389>.
 
 </div>
 
@@ -260,6 +305,14 @@ Flege, James Emil, and Robert M. Hammond. 1982. “Mimicry of
 Non-Distinctive Phonetic Differences Between Language Varieties.”
 *Studies in Second Language Acquisition* 5 (1): 1–17.
 <https://doi.org/10.1017/S0272263100004563>.
+
+</div>
+
+<div id="ref-gass2020introducing" class="csl-entry">
+
+Gass, Susan, and Luke Plonsky. 2020. “Introducing the SSLA Methods
+Forum.” *Studies in Second Language Acquisition* 42 (4): 667–69.
+<https://doi.org/10.1017/S0272263120000364>.
 
 </div>
 
@@ -316,6 +369,21 @@ Hamann, Cornelia, Esther Rinke, and Dobrinka Genevska-Hanke. 2019.
 Hawkins, John, and Luna Filipović. 2024. “Bilingualism-Induced Language
 Change: What Can Change, When, and Why?” *Linguistics Vanguard* 10 (s2):
 115–24. <https://doi.org/10.1515/lingvan-2023-0089>.
+
+</div>
+
+<div id="ref-henrich2010beyond" class="csl-entry">
+
+Henrich, Joseph, Steven J Heine, and Ara Norenzayan. 2010a. “Beyond
+WEIRD: Towards a Broad-Based Behavioral Science.” *Behavioral and Brain
+Sciences* 33 (2-3): 111. <https://doi.org/10.1017/S0140525X10000725>.
+
+</div>
+
+<div id="ref-henrich2010weirdest" class="csl-entry">
+
+———. 2010b. “The Weirdest People in the World?” *Behavioral and Brain
+Sciences* 33 (2-3): 61–83. <https://doi.org/10.1017/S0140525X0999152X>.
 
 </div>
 
@@ -377,6 +445,15 @@ Consequences of Bilingualism for Language Processing and Cognition.”
 Lambert, Wallace E. 1955. “Measurement of the Linguistic Dominance of
 Bilinguals.” *The Journal of Abnormal and Social Psychology* 50 (2):
 197–200. <https://doi.org/10.1037/h0042120>.
+
+</div>
+
+<div id="ref-de2019native" class="csl-entry">
+
+Leeuw, Esther de. 2019. “Native Speech Plasticity in the German-English
+Late Bilingual Stefanie Graf: A Longitudinal Study over Four Decades.”
+*Journal of Phonetics* 73: 24–39.
+<https://doi.org/10.1016/j.wocn.2018.12.002>.
 
 </div>
 
@@ -462,6 +539,16 @@ Learning* 73: 344–87. <https://doi.org/10.1111/lang.12568>.
 
 </div>
 
+<div id="ref-marsden2018introducing" class="csl-entry">
+
+Marsden, Emma, Kara Morgan-Short, Pavel Trofimovich, and Nick C Ellis.
+2018. “Introducing Registered Reports at Language Learning: Promoting
+Transparency, Replication, and a Synthetic Ethic in the Language
+Sciences.” *Language Learning* 68 (2): 309–20.
+<https://doi.org/10.1111/lang.12284>.
+
+</div>
+
 <div id="ref-mejias2003attitude" class="csl-entry">
 
 Mejı́as, Hugo A, Pamela L Anderson-Mejı́as, and Ralph Carlson. 2003.
@@ -478,6 +565,52 @@ Among Latina Youth Gangs*. John Wiley & Sons.
 
 </div>
 
+<div id="ref-moranski2022context" class="csl-entry">
+
+Moranski, Kara, and Janire Zalbidea. 2022. “Context and Generalizability
+in Multisite L2 Classroom Research: The Impact of Deductive Versus
+Guided Inductive Instruction.” *Language Learning* 72 (S1): 41–82.
+<https://doi.org/10.1111/lang.12487>.
+
+</div>
+
+<div id="ref-moranski2021case" class="csl-entry">
+
+Moranski, Kara, and Nicole Ziegler. 2021. “A Case for Multisite Second
+Language Acquisition Research: Challenges, Risks, and Rewards.”
+*Language Learning* 71 (1): 204–42.
+<https://doi.org/10.1111/lang.12434>.
+
+</div>
+
+<div id="ref-morgan2018multisite" class="csl-entry">
+
+Morgan-Short, Kara, Emma Marsden, Jeanne Heil, Bernard I Issa Ii, Ronald
+P Leow, Anna Mikhaylova, Sylwia Mikołajczak, Nina Moreno, Roumyana
+Slabakova, and Paweł Szudarski. 2018. “Multisite Replication in Second
+Language Acquisition Research: Attention to Form During Listening and
+Reading Comprehension.” *Language Learning* 68 (2): 392–437.
+<https://doi.org/10.1111/lang.12292>.
+
+</div>
+
+<div id="ref-nielsen2017persistent" class="csl-entry">
+
+Nielsen, Mark, Daniel Haun, Joscha Kärtner, and Cristine H Legare. 2017.
+“The Persistent Sampling Bias in Developmental Psychology: A Call to
+Action.” *Journal of Experimental Child Psychology* 162: 31–38.
+<https://doi.org/10.1016/j.jecp.2017.04.017>.
+
+</div>
+
+<div id="ref-open2015estimating" class="csl-entry">
+
+Open Science Collaboration. 2015. “Estimating the Reproducibility of
+Psychological Science.” *Science* 349 (6251): aac4716.
+<https://doi.org/10.1126/science.aac4716>.
+
+</div>
+
 <div id="ref-pena2014dynamic" class="csl-entry">
 
 Peña, Elizabeth D., Ronald B. Gillam, and Lisa M. Bedore. 2014. “Dynamic
@@ -485,6 +618,15 @@ Assessment of Narrative Ability in English Accurately Identifies
 Language Impairment in English Language Learners.” *Journal of Speech,
 Language, and Hearing Research* 57 (6): 2208–20.
 <https://doi.org/10.1044/2014_JSLHR-L-13-0151>.
+
+</div>
+
+<div id="ref-plonsky2013study" class="csl-entry">
+
+Plonsky, Luke. 2013. “Study Quality in SLA: An Assessment of Designs,
+Analyses, and Reporting Practices in Quantitative L2 Research.” *Studies
+in Second Language Acquisition* 35 (4): 655–87.
+<https://doi.org/10.1017/S0272263113000399>.
 
 </div>
 
@@ -530,6 +672,14 @@ Research.” *Laboratory Phonology* 10 (1): 1–27.
 
 </div>
 
+<div id="ref-roettger2021preregistration" class="csl-entry">
+
+———. 2021. “Preregistration in Experimental Linguistics: Applications,
+Challenges, and Limitations.” *Linguistics* 59 (5): 1227–49.
+<https://doi.org/10.1515/ling-2019-0048>.
+
+</div>
+
 <div id="ref-sankoff2002linguistic" class="csl-entry">
 
 Sankoff, Gillian. 2002. “Linguistic Outcomes of Language Contact.” In
@@ -563,6 +713,15 @@ Stuart-Smith, Jane, Morgan Sonderegger, Tamara Rathcke, and Rachel
 Macdonald. 2015. “The Private Life of Stops: VOT in a Real-Time Corpus
 of Spontaneous Glaswegian.” *Laboratory Phonology* 6 (3-4): 505–49.
 <https://doi.org/10.1515/lp-2015-0015>.
+
+</div>
+
+<div id="ref-sugden2015recruitment" class="csl-entry">
+
+Sugden, Nicole A, and Margaret C Moulson. 2015. “Recruitment Strategies
+Should Not Be Randomly Selected: Empirically Improving Recruitment
+Success and Diversity in Developmental Psychology Research.” *Frontiers
+in Psychology* 6: 523. <https://doi.org/10.3389/fpsyg.2015.00523>.
 
 </div>
 
