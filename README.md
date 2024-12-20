@@ -1,6 +1,6 @@
 # Sound communities references
 Joseph V. Casillas
-2024-12-19
+2024-12-20
 
 ## Citation Types
 
@@ -440,6 +440,14 @@ Consequences of Bilingualism for Language Processing and Cognition.”
 
 </div>
 
+<div id="ref-kutlu2023towards" class="csl-entry">
+
+Kutlu, Ethan, and Rachel Hayes-Harb. 2023. “Towards a Just and Equitable
+Applied Psycholinguistics.” *Applied Psycholinguistics* 44 (3): 293–300.
+<https://doi.org/10.1017/S0142716423000280>.
+
+</div>
+
 <div id="ref-lambert1955" class="csl-entry">
 
 Lambert, Wallace E. 1955. “Measurement of the Linguistic Dominance of
@@ -546,6 +554,26 @@ Marsden, Emma, Kara Morgan-Short, Pavel Trofimovich, and Nick C Ellis.
 Transparency, Replication, and a Synthetic Ethic in the Language
 Sciences.” *Language Learning* 68 (2): 309–20.
 <https://doi.org/10.1111/lang.12284>.
+
+</div>
+
+<div id="ref-mcmanus2024replication" class="csl-entry">
+
+McManus, Kevin. 2024. “Replication Studies in Second Language
+Acquisition Research: Definitions, Issues, Resources, and Future
+Directions: Introduction to the Special Issue.” *Studies in Second
+Language Acquisition*, 1–21.
+<https://doi.org/10.1017/S0272263124000652>.
+
+</div>
+
+<div id="ref-mcmurray2023understanding" class="csl-entry">
+
+McMurray, Bob, Keith S Baxelbaum, Sarah Colby, and J Bruce Tomblin.
+2023. “Understanding Language Processing in Variable Populations on
+Their Own Terms: Towards a Functionalist Psycholinguistics of Individual
+Differences, Development, and Disorders.” *Applied Psycholinguistics* 44
+(4): 565–92. <https://doi.org/10.1017/S0142716423000255>.
 
 </div>
 
@@ -680,6 +708,15 @@ Challenges, and Limitations.” *Linguistics* 59 (5): 1227–49.
 
 </div>
 
+<div id="ref-roettger2019emergent" class="csl-entry">
+
+Roettger, Timo B, Bodo Winter, and Harald Baayen. 2019. “Emergent Data
+Analysis in Phonetic Sciences: Towards Pluralism and Reproducibility.”
+*Journal of Phonetics* 73: 1–7.
+<https://doi.org/10.1016/j.wocn.2018.12.001>.
+
+</div>
+
 <div id="ref-sankoff2002linguistic" class="csl-entry">
 
 Sankoff, Gillian. 2002. “Linguistic Outcomes of Language Contact.” In
@@ -695,6 +732,14 @@ Silva-Corvalán, Carmen, and Jeanine Treffers-Daller. 2016. *Language
 Dominance in Bilinguals: Issues of Measurement and Operationalization*.
 Cambridge, UK: Cambridge University Press.
 <https://doi.org/10.1017/CBO9781107375345>.
+
+</div>
+
+<div id="ref-simonet2010dark" class="csl-entry">
+
+Simonet, Miquel. 2010. “Dark and Clear Laterals in Catalan and Spanish:
+Interaction of Phonetic Categories in Early Bilinguals.” *Journal of
+Phonetics* 38 (4): 663–78. <https://doi.org/10.1016/j.wocn.2010.10.002>.
 
 </div>
 
