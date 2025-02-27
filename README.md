@@ -1,6 +1,6 @@
 # Sound communities references
 Joseph V. Casillas
-2024-12-20
+2025-02-26
 
 ## Citation Types
 
@@ -44,12 +44,21 @@ Contact.” *Sociolinguistic Studies* 8 (1): 139–70.
 
 </div>
 
+<div id="ref-amengual2012interlingual" class="csl-entry">
+
+Amengual, Mark. 2012. “Interlingual Influence in Bilingual Speech:
+Cognate Status Effect in a Continuum of Bilingualism.” *Bilingualism:
+Language and Cognition* 15 (3): 517–30.
+<https://doi.org/10.1017/S1366728911000460>.
+
+</div>
+
 <div id="ref-amengual2018asymmetrical" class="csl-entry">
 
-Amengual, Mark. 2018. “Asymmetrical Interlingual Influence in the
-Production of Spanish and English Laterals as a Result of Competing
-Activation in Bilingual Language Processing.” *Journal of Phonetics* 69:
-12–28. <https://doi.org/10.1016/j.wocn.2018.04.002>.
+———. 2018. “Asymmetrical Interlingual Influence in the Production of
+Spanish and English Laterals as a Result of Competing Activation in
+Bilingual Language Processing.” *Journal of Phonetics* 69: 12–28.
+<https://doi.org/10.1016/j.wocn.2018.04.002>.
 
 </div>
 
@@ -76,6 +85,14 @@ Antoniou, Mark, Michael D. Tyler, and Catherine T. Best. 2012. “Two Ways
 to Listen: Do L2-Dominant Bilinguals Perceive Stop Voicing According to
 Language Mode?” *Journal of Phonetics* 40 (4): 582–94.
 <https://doi.org/10.1016/j.wocn.2012.05.005>.
+
+</div>
+
+<div id="ref-au2002overhearing" class="csl-entry">
+
+Au, Terry Kit-fong, Leah M Knightly, Sun-Ah Jun, and Janet S Oh. 2002.
+“Overhearing a Language During Childhood.” *Psychological Science* 13
+(3): 238–43. <https://doi.org/10.1111/1467-9280.00444>.
 
 </div>
 
@@ -194,6 +211,16 @@ the Modern Language Journal".” *The Modern Language Journal*, 3–18.
 
 </div>
 
+<div id="ref-caramazza1973acquisition" class="csl-entry">
+
+Caramazza, Alfonso, Grace H Yeni-Komshian, Edgar B Zurif, and Ettore
+Carbone. 1973. “The Acquisition of a New Phonological Contrast: The Case
+of Stop Consonants in French-English Bilinguals.” *The Journal of the
+Acoustical Society of America* 54 (2): 421–28.
+<https://doi.org/10.1121/1.1913594>.
+
+</div>
+
 <div id="ref-carmichael2016place" class="csl-entry">
 
 Carmichael, Katie. 2016. “Place-Linked Expectations and Listener
@@ -227,6 +254,24 @@ Casillas, Joseph V, and Miquel Simonet. 2018. “Perceptual Categorization
 and Bilingual Language Modes: Assessing the Double Phonemic Boundary in
 Early and Late Bilinguals.” *Journal of Phonetics* 71: 51–64.
 <https://doi.org/10.1016/j.wocn.2018.07.002>.
+
+</div>
+
+<div id="ref-chang2012rapid" class="csl-entry">
+
+Chang, Charles B. 2012. “Rapid and Multifaceted Effects of
+Second-Language Learning on First-Language Speech Production.” *Journal
+of Phonetics* 40 (2): 249–68.
+<https://doi.org/10.1016/j.wocn.2011.10.007>.
+
+</div>
+
+<div id="ref-chang2019language" class="csl-entry">
+
+———. 2019. “Language Change and Linguistic Inquiry in a World of
+Multicompetence: Sustained Phonetic Drift and Its Implications for
+Behavioral Linguistic Research.” *Journal of Phonetics* 74: 96–113.
+<https://doi.org/10.1016/j.wocn.2019.03.001>.
 
 </div>
 
@@ -291,6 +336,25 @@ Across Bilingual Minds.” *International Journal of Bilingualism* 23 (6):
 
 </div>
 
+<div id="ref-Flege:1995wl" class="csl-entry">
+
+Flege, James E. 1995. “<span class="nocase">Second language speech
+learning: Theory, findings, and problems</span>.” In *Speech Perception
+and Linguistic Experience Issues in Cross-Language Research*, edited by
+Winifred Strange, 229–73. Timonium, MD: York Press.
+
+</div>
+
+<div id="ref-flege_bohn_2021" class="csl-entry">
+
+Flege, James E, and Ocke-Schwen Bohn. 2021. “<span class="nocase">The
+Revised Speech Learning Model (SLM-r)</span>.” In *Second Language
+Speech Learning: Theoretical and Empirical Progress*, edited by
+RatreeEditor Wayland, 3–83. Cambridge, MA: Cambridge University Press.
+<https://doi.org/10.1017/9781108886901.002>.
+
+</div>
+
 <div id="ref-flege2002assessing" class="csl-entry">
 
 Flege, James E., Ian R. A. MacKay, and Thorsten Piske. 2002. “Assessing
@@ -330,6 +394,15 @@ Gonzales, Kalim, and Andrew J Lotto. 2013. “A Bafri, Un Pafri:
 Bilinguals’ Pseudoword Identifications Support Language-Specific
 Phonetic Systems.” *Psychological Science* 24 (11): 2135–42.
 <https://doi.org/10.1177/0956797613486485>.
+
+</div>
+
+<div id="ref-gorba2023acquisition" class="csl-entry">
+
+Gorba, Celia, and Juli Cebrian. 2023. “The Acquisition of L2 Voiced
+Stops by English Learners of Spanish and Spanish Learners of English.”
+*Speech Communication* 146: 93–108.
+<https://doi.org/10.1016/j.specom.2022.12.003>.
 
 </div>
 
@@ -471,6 +544,14 @@ Lev-Ari, Shiri, and Boaz Keysar. 2010. “Why Don’t We Believe Non-Native
 Speakers? The Influence of Accent on Credibility.” *Journal of
 Experimental Social Psychology* 46 (6): 1093–96.
 <https://doi.org/10.1016/j.jesp.2010.05.025>.
+
+</div>
+
+<div id="ref-levis2005changing" class="csl-entry">
+
+Levis, John M. 2005. “Changing Contexts and Shifting Paradigms in
+Pronunciation Teaching.” *TESOL Quarterly* 39 (3): 369–77.
+<https://doi.org/3588485>.
 
 </div>
 
@@ -717,6 +798,22 @@ Analysis in Phonetic Sciences: Towards Pluralism and Reproducibility.”
 
 </div>
 
+<div id="ref-sakai2018" class="csl-entry">
+
+Sakai, M. 2018. “Moving Towards a Bilingual Baseline in Second Language
+Phonetic Research.” *Journal of Second Language Pronunciation* 4 (1):
+11–45. <https://doi.org/10.1075/jslp.00002.sak>.
+
+</div>
+
+<div id="ref-sancier1997gestural" class="csl-entry">
+
+Sancier, Michele L, and Carol A Fowler. 1997. “Gestural Drift in a
+Bilingual Speaker of Brazilian Portuguese and English.” *Journal of
+Phonetics* 25 (4): 421–36. <https://doi.org/10.1006/jpho.1997.0051>.
+
+</div>
+
 <div id="ref-sankoff2002linguistic" class="csl-entry">
 
 Sankoff, Gillian. 2002. “Linguistic Outcomes of Language Contact.” In
@@ -767,6 +864,15 @@ Sugden, Nicole A, and Margaret C Moulson. 2015. “Recruitment Strategies
 Should Not Be Randomly Selected: Empirically Improving Recruitment
 Success and Diversity in Developmental Psychology Research.” *Frontiers
 in Psychology* 6: 523. <https://doi.org/10.3389/fpsyg.2015.00523>.
+
+</div>
+
+<div id="ref-tobin2017phonetic" class="csl-entry">
+
+Tobin, Stephen J, Hosung Nam, and Carol A Fowler. 2017. “Phonetic Drift
+in Spanish-English Bilinguals: Experiment and a Self-Organizing Model.”
+*Journal of Phonetics* 65: 45–59.
+<https://doi.org/10.1016/j.wocn.2017.05.006>.
 
 </div>
 
