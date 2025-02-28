@@ -1,6 +1,6 @@
 # Sound communities references
 Joseph V. Casillas
-2025-02-26
+2025-02-28
 
 ## Citation Types
 
@@ -176,6 +176,16 @@ Brice, Alejandro E, Cecyle K Carson, and Jennifer Dennis O’Brien. 2009.
 “Spanish-English Articulation and Phonology of 4-and 5-Year-Old
 Preschool Children: An Initial Investigation.” *Communication Disorders
 Quarterly* 31 (1): 3–14. <https://doi.org/10.1177/1525740108327447>.
+
+</div>
+
+<div id="ref-brown2023searching" class="csl-entry">
+
+Brown, Bianca, Botagoz Tusmagambet, Valentino Rahming, Chun-Ying Tu,
+Michael B DeSalvo, and Seth Wiener. 2023. “Searching for the "Native"
+Speaker: A Preregistered Conceptual Replication and Extension of Reid,
+Trofimovich, and O’Brien (2019).” *Applied Psycholinguistics* 44 (4):
+475–94. <https://doi.org/10.1017/S0142716423000127>.
 
 </div>
 
@@ -477,6 +487,15 @@ Psychology* 73 (1): 55–79. <https://doi.org/10.1177/1747021819865833>.
 
 </div>
 
+<div id="ref-kartushina2016and" class="csl-entry">
+
+Kartushina, Natalia, Ulrich H Frauenfelder, and Narly Golestani. 2016.
+“How and When Does the Second Language Influence the Production of
+Native Speech Sounds: A Literature Review.” *Language Learning* 66 (S2):
+155–86. <https://doi.org/10.1111/lang.12187>.
+
+</div>
+
 <div id="ref-kartushina2019third" class="csl-entry">
 
 Kartushina, Natalia, and Clara D. Martin. 2019. “Third-Language Learning
@@ -712,6 +731,14 @@ Action.” *Journal of Experimental Child Psychology* 162: 31–38.
 
 </div>
 
+<div id="ref-olga2024native" class="csl-entry">
+
+Olga, Dmitrieva, Chiara Celata, Kartushina Natalia, et al. 2024. “Native
+Speech Perception in the Context of Multilingualism and Language
+Learning.” *Languages* 7.
+
+</div>
+
 <div id="ref-open2015estimating" class="csl-entry">
 
 Open Science Collaboration. 2015. “Estimating the Reproducibility of
@@ -760,6 +787,16 @@ University Press.
 Reed, Peter E. 2020. “Place and Language: Links Between Speech, Region,
 and Connection to Place.” *Wiley Interdisciplinary Reviews: Cognitive
 Science* 11 (3): 1–11. <https://doi.org/10.1002/wcs.1524>.
+
+</div>
+
+<div id="ref-reid2019social" class="csl-entry">
+
+Reid, Kym Taylor, Pavel Trofimovich, and Mary Grantham O’Brien. 2019.
+“Social Attitudes and Speech Ratings: Effects of Positive and Negative
+Bias on Multiage Listeners’ Judgments of Second Language Speech.”
+*Studies in Second Language Acquisition* 41 (2): 419–42.
+<https://doi.org/10.1017/S0272263118000244>.
 
 </div>
 
